@@ -84,6 +84,3 @@ Pronto pra mostrar arquitetura com propósito.
 
 
 ---
-
-Se quiser, posso gerar um .zip com esse .md e assets de apoio, ou te ajudar a incluir isso direto no seu projeto de PoC. Quer que eu prepare o arquivo pra download?
-
